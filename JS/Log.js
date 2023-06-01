@@ -1,3 +1,5 @@
+//Section login
+
 let btn = document.querySelector('.flip-button')
 let formsignup = document.querySelector('.form-signup')
 let formlogin = document.querySelector('.form-login')
